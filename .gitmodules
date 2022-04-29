@@ -1,0 +1,3 @@
+[submodule "mta-lstm-pytorch"]
+	path = mta-lstm-pytorch
+	url = https://github.com/cdfmlr/mta-lstm-pytorch.git
