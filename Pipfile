@@ -4,6 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+gensim = "*"
+numpy = "*"
+torch = "*"
+tqdm = "*"
+matplotlib = "*"
+nltk = "*"
+jieba = "*"
+aiohttp = "*"
 
 [dev-packages]
 
