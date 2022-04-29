@@ -12,6 +12,7 @@ matplotlib = "*"
 nltk = "*"
 jieba = "*"
 aiohttp = "*"
+requests = "*"
 
 [dev-packages]
 
